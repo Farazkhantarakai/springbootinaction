@@ -7,6 +7,7 @@
 </head>
 <body>
     <p>Welcome</p>
+    <pre>${error}</pre>
     <p>Name : ${name} </p><br>
     <p>Password : ${password} </p>
 </body>
