@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <p>Welcome to dos Page</p>
+    <p>Welcome to dos ${name}</p>
     <p>${todo}</p>
 </body>
 </html>
